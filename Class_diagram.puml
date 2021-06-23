@@ -1,0 +1,84 @@
+@startuml
+skinparam shadowing false
+class User  {
+    -id:int   
+    -name : string
+    -surname : string
+   -timeCredit : int
+   -ArrayList : Service[] serviceToProvid
+   -ArrayList : Objet[] objectToExchange
+   -ArrayList : Offer[] myOffers
+   -sex:string
+   -address:string
+   -ratingUser:Rating
+}
+class Service {
+    -id:int
+    -Name :string
+    -provider:User
+    -validation:boolean
+    -comment:Comment
+    -rating:Rating
+    -ArrayList : Comment[] comReceived
+    -ArrayList : Rating[] ratingGiven
+   
+}
+class Category{
+    -id:int
+    -name:string
+    -ArrayList : Service[] serviceToProvid
+
+}
+class Message{
+    -id:int
+    -sender:User
+    -receiver:User
+    -content:string
+    -date:DateTime
+    -offer:Offer
+}
+class Object{
+    -id:int
+    -name:string
+    -state:Enum
+    -description:string
+}
+class Comment{
+    -id:int
+    -content:string
+    -autor:User
+    -serviceCommented:Service
+    -date:DateTime
+
+}
+class Offer{
+    -id:int
+    -name:string
+    -autor:User
+    -service:Service
+    -date:DateTime
+    -message:Message
+    -ArrayList : Message[] msgSended
+  
+
+}
+Class Rating{
+    -id:int
+    -scale:int
+    -ratedService:Service
+    
+}
+User "1" *-- "many" Service : owns >
+
+User "1" *-- "many" Offer : owns >
+Offer"1" *--  "many" Message : contains >
+Service "1" *-- "many" Comment : send/receiv >
+Service "1" *-- "many" Rating : send/receiv >
+Category "1" *-- "many" Service : contains >
+Offer -- Service : contains >
+Object --|> Service
+
+
+
+
+@enduml

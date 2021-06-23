@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1684px" preserveAspectRatio="none" style="width:1423px;height:1684px;" version="1.1" viewBox="0 0 1423 1684" width="1423px" zoomAndPan="magnify"><defs/><g><!--MD5=[d0083cf0b2d9f17e335f85bf9624e57e]
+cluster User--><rect fill="#FFFFFF" height="105" style="stroke: #000000; stroke-width: 1.5;" width="397.5" x="545.5" y="852.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="33" x="727.75" y="869.0332">User</text><!--MD5=[5354245f44d75c82aa1f598e1a60e1e0]
+cluster Offer--><rect fill="#FFFFFF" height="193" style="stroke: #000000; stroke-width: 1.5;" width="858.5" x="281" y="1324.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="36" x="692.25" y="1341.0332">Offer</text><!--MD5=[0bebf17b5529c6684051886b4339e0c5]
+cluster Message--><rect fill="#FFFFFF" height="224" style="stroke: #000000; stroke-width: 1.5;" width="424" x="531" y="1069.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="64" x="711" y="1086.0332">Message</text><!--MD5=[9dd75fd92da113d30380b27734fd2f01]
+cluster Service--><rect fill="#FFFFFF" height="285" style="stroke: #000000; stroke-width: 1.5;" width="603.5" x="536.5" y="198.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="54" x="811.25" y="215.0332">Service</text><!--MD5=[942ee4b883c52d7a03f098d74c95ae83]
+cluster Comment--><rect fill="#FFFFFF" height="224" style="stroke: #000000; stroke-width: 1.5;" width="178" x="1234" y="27.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="66" x="1290" y="44.0332">Comment</text><!--MD5=[551b24d2673498fa374b2a93e20b63f8]
+cluster Rating--><rect fill="#FFFFFF" height="216" style="stroke: #000000; stroke-width: 1.5;" width="162" x="1242" y="391.5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="45" x="1300.5" y="408.0332">Rating</text><ellipse cx="877.9619" cy="916.4517" fill="#FEFECE" rx="48.9619" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="845.4619" y="921.7564">read_user</text><ellipse cx="621.0685" cy="908.4517" fill="#FEFECE" rx="59.5685" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="80" x="581.0685" y="913.7564">update_user</text><ellipse cx="360.1041" cy="1485.4517" fill="#FEFECE" rx="63.1041" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="85" x="317.6041" y="1490.7564">browse_Offer</text><ellipse cx="621.169" cy="1442.4517" fill="#FEFECE" rx="49.669" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66" x="588.169" y="1447.7564">read_offer</text><ellipse cx="620.9472" cy="1376.4517" fill="#FEFECE" rx="57.4472" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="582.4472" y="1381.7564">create_offer</text><ellipse cx="1062.7756" cy="1442.4517" fill="#FEFECE" rx="60.2756" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="81" x="1022.2756" y="1447.7564">update_offer</text><ellipse cx="1063.2401" cy="1376.4517" fill="#FEFECE" rx="56.7401" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="76" x="1025.2401" y="1381.7564">delete_offer</text><ellipse cx="877.9828" cy="1242.4517" fill="#FEFECE" rx="60.9828" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="82" x="836.9828" y="1247.7564">list_message</text><ellipse cx="621.0151" cy="1122.703" fill="#FEFECE" rx="71.5151" ry="16.703" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="568.5151" y="1128.0077">create_message</text><ellipse cx="621.0594" cy="1260.5119" fill="#FEFECE" rx="73.0594" ry="17.0119" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="566.5594" y="1265.8166">update_message</text><ellipse cx="620.8401" cy="1191.668" fill="#FEFECE" rx="73.8401" ry="17.168" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="111" x="565.3401" y="1196.9727">delete_messsage</text><ellipse cx="620.9472" cy="250.4517" fill="#FEFECE" rx="57.4472" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="582.4472" y="255.7564">list_services</text><ellipse cx="1062.9828" cy="277.4517" fill="#FEFECE" rx="60.9828" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="82" x="1021.9828" y="282.7564">read_service</text><ellipse cx="621.0337" cy="317.3067" fill="#FEFECE" rx="67.0337" ry="15.8067" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="93" x="574.5337" y="322.6114">create_service</text><ellipse cx="621.0005" cy="451.6001" fill="#FEFECE" rx="68.5005" ry="16.1001" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="97" x="572.5005" y="456.9048">update_service</text><ellipse cx="621.1715" cy="384.7343" fill="#FEFECE" rx="66.6715" ry="15.7343" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="92" x="575.1715" y="390.039">delete_service</text><ellipse cx="1323.0151" cy="218.703" fill="#FEFECE" rx="71.5151" ry="16.703" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="105" x="1270.5151" y="224.0077">create_comment</text><ellipse cx="1323.0594" cy="149.5119" fill="#FEFECE" rx="73.0594" ry="17.0119" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="1268.5594" y="154.8166">update_comment</text><ellipse cx="1323.1327" cy="80.6265" fill="#FEFECE" rx="71.1327" ry="16.6265" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="104" x="1271.1327" y="85.9312">delete_comment</text><ellipse cx="1322.897" cy="509.4517" fill="#FEFECE" rx="62.397" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="1280.897" y="514.7564">create_rating</text><ellipse cx="1323.2254" cy="575.4517" fill="#FEFECE" rx="65.2254" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="88" x="1279.2254" y="580.7564">update_rating</text><ellipse cx="1323.1899" cy="443.4517" fill="#FEFECE" rx="61.6899" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="83" x="1281.6899" y="448.7564">delete_rating</text><!--MD5=[79a439086b036a57b90a01d7b2f8bbd1]
+entity admin--><ellipse cx="40" cy="753" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M40,761 L40,788 M27,769 L53,769 M40,788 L27,803 M40,788 L53,803 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="38" x="21" y="820.0332">admin</text><!--MD5=[2b1b6c0ff686023f1b5acef9f013ba61]
+entity member_owner--><ellipse cx="184.5" cy="753" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M184.5,761 L184.5,788 M171.5,769 L197.5,769 M184.5,788 L171.5,803 M184.5,788 L197.5,803 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="97" x="136" y="820.0332">member_owner</text><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><ellipse cx="184.5" cy="1405" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M184.5,1413 L184.5,1440 M171.5,1421 L197.5,1421 M184.5,1440 L171.5,1455 M184.5,1440 L197.5,1455 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37" x="166" y="1472.0332">visitor</text><!--MD5=[96464e485a405d94e9bd6ac3601b7b01]
+entity member--><ellipse cx="360" cy="932" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M360,940 L360,967 M347,948 L373,948 M360,967 L347,982 M360,967 L373,982 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51" x="334.5" y="999.0332">member</text><ellipse cx="40.2132" cy="1402.4517" fill="#FEFECE" rx="24.2132" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="30" x="25.2132" y="1407.7564">login</text><ellipse cx="40.1127" cy="1468.4517" fill="#FEFECE" rx="34.1127" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="44" x="18.1127" y="1473.7564">Signup</text><ellipse cx="184.4056" cy="1526.4517" fill="#FEFECE" rx="33.4056" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="43" x="162.9056" y="1531.7564">search</text><ellipse cx="184.6482" cy="1592.4517" fill="#FEFECE" rx="37.6482" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="160.1482" y="1597.7564">location</text><ellipse cx="184.669" cy="1658.4517" fill="#FEFECE" rx="49.669" ry="15.4517" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="66" x="151.669" y="1663.7564">categories</text><!--MD5=[cfd4b2bff0b744335e5c50bb0bd41cb8]
+entity visitor--><ellipse cx="621" cy="983" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M621,991 L621,1018 M608,999 L634,999 M621,1018 L608,1033 M621,1018 L634,1033 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37" x="602.5" y="1050.0332">visitor</text><!--MD5=[63eb7d23b577602124a43baf919d85ca]
+link login to user--><path d="M62.9533,1407.584 C91.2151,1414.129 139.773,1425.374 165.8,1431.401 " fill="none" id="login-user" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c4d8ffab874d629012a9aeb149f0a173]
+link signup to user--><path d="M70.5261,1461.662 C99.2217,1455.017 141.859,1445.143 165.704,1439.621 " fill="none" id="signup-user" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[271bfebc02cece2ce3e4b77788f8bfb5]
+link user to browse_Offer--><path d="M203.091,1440.569 C229.884,1448.291 281.652,1463.209 318.169,1473.733 " fill="none" id="user-browse_Offer" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[732d19528621c1f0e316ed687acff18f]
+link search to browse_Offer--><path d="M214.54,1519.638 C236.247,1514.508 266.777,1507.293 294.181,1500.817 " fill="none" id="search-&gt;browse_Offer" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="292.797,1493.952,313.87,1496.165,296.016,1507.577,292.797,1493.952" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5d6f2f3b7f68d59c485976951526b54c]
+link location to browse_Offer--><path d="M206.084,1579.8055 C233.628,1562.819 283.081,1532.32 318.29,1510.607 " fill="none" id="location-&gt;browse_Offer" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="314.985,1504.42,335.683,1499.88,322.334,1516.337,314.985,1504.42" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[283b5fd86abebc0709f29d2916bf9bd2]
+link categories to browse_Offer--><path d="M208.066,1644.7977 C216.537,1639.237 226.035,1632.4817 234,1625.5 C272.532,1591.725 310.892,1546.618 334.752,1516.845 " fill="none" id="categories-&gt;browse_Offer" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="329.435,1512.283,347.312,1500.908,340.431,1520.949,329.435,1512.283" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[0749d5e5834b79b8911dc5a7a43b3e70]
+link member_owner to update_comment--><path d="M185.334,743.298 C185.556,616.01 192.186,224.35 264,124.5 C291.278,86.57 312.28,79.5 359,79.5 C359,79.5 359,79.5 1064,79.5 C1133.14,79.5 1160.19,63.58 1218,101.5 C1223.67,105.22 1220.74,110.21 1226,114.5 C1238.78,124.93 1254.95,132.4 1270.35,137.69 " fill="none" id="member_owner-update_comment" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[5cef6c18bce56793bba427887d4b5e92]
+link member_owner to delete_comment--><path d="M193.954,743.465 C230.032,584.77 386.414,8.5 755,8.5 C755,8.5 755,8.5 1064,8.5 C1148.4,8.5 1242.81,44.69 1290.61,65.76 " fill="none" id="member_owner-delete_comment" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[363539ccddba2893ee97044dff8958ac]
+link member_owner to delete_offer--><path d="M233.188,768.128 C267.738,758.344 315.778,747.5 359,747.5 C359,747.5 359,747.5 879,747.5 C924.918,747.5 944.706,755.574 972,792.5 C1041.67,886.752 1058.67,1278.02 1061.52,1360.994 " fill="none" id="member_owner-delete_offer" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f44cf14b8ab8c18bd4646284749a8504]
+link member_owner to update_offer--><path d="M233.218,798.445 C267.783,807.958 315.827,818.5 359,818.5 C359,818.5 359,818.5 879,818.5 C923.382,818.5 940.335,834.342 963,872.5 C1024.1,975.369 937.412,1308.783 1002,1409.5 C1007.71,1418.406 1016.7,1425.109 1026.01,1430.063 " fill="none" id="member_owner-update_offer" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[982d6cfc438ee9cd53fa65cdca319339]
+link member_owner to create_rating--><path d="M233.252,747.906 C245.699,739.909 259.438,732.134 273,726.5 C501.297,631.66 573.913,655.48 817,610.5 C994.397,577.68 1048.98,610.58 1218,547.5 C1221.93,546.03 1222.22,544.3 1226,542.5 C1243.66,534.08 1264.05,526.76 1281.49,521.17 " fill="none" id="member_owner-create_rating" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[65bfdddf3ea1f59980acd4ff5a553682]
+link member_owner to update_rating--><path d="M187.535,823.858 C195.281,970.148 224.942,1466.685 273,1517.5 C338.119,1586.3549 388.229,1554.5 483,1554.5 C483,1554.5 483,1554.5 1064,1554.5 C1104.79,1554.5 1122.69,1549.494 1148,1517.5 C1268.98,1364.57 1314.32,701.395 1321.08,591.08 " fill="none" id="member_owner-update_rating" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[84fc4be0562b500bac4259cc9f18b3f7]
+link member_owner to delete_rating--><path d="M207.881,743.492 C223.217,719.678 245.697,690.82 273,673.5 C306.521,652.24 661.018,590.18 1148,483.5 C1192.05,473.85 1242.24,462.25 1277.35,454.03 " fill="none" id="member_owner-delete_rating" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[cc0fed9b3ab38a36b216aa70b262f8a1]
+link member_owner to delete_message--><path d="M193.938,823.669 C216.311,918.106 287.168,1151.942 453,1227.5 C478.075,1238.925 487.819,1232.03 515,1227.5 C539.331,1223.445 565.581,1214.445 585.748,1206.459 " fill="none" id="member_owner-delete_message" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[c425bae830a45191c55b8166b0b797ff]
+link member_owner to update_message--><path d="M187.834,823.561 C194.339,920.365 216.083,1162.974 273,1216.5 C351.631,1290.446 488.359,1282.918 564.598,1271.407 " fill="none" id="member_owner-update_message" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3478d687ee72e6de92951df51f2693a8]
+link member to update_user--><path d="M385.834,957.322 C429.135,948.294 519.07,929.543 574.018,918.087 " fill="none" id="member-update_user" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[db9067a4a241eaf11e94e07d3924a5a3]
+link member to create_message--><path d="M381.343,1002.521 C397.226,1029.732 421.817,1064.327 453,1084.5 C482.334,1103.477 519.922,1113.039 552.007,1117.831 " fill="none" id="member-create_message" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[74a755daea660922f02aa72bcc2497f1]
+link member to create_offer--><path d="M383.311,1002.713 C401.277,1034.43 427.634,1079.501 453,1117.5 C478.564,1155.796 498.621,1157.467 515,1200.5 C529.758,1239.272 504.048,1256.596 523,1293.5 C538.795,1324.257 571.359,1348.35 594.39,1362.479 " fill="none" id="member-create_offer" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[7504bbf877f0782fea3c733298fa1fa4]
+link member to create_comment--><path d="M363.447,922.335 C372.962,780.978 412.601,310.07 523,218.5 C739.632,38.82 874.581,204.5 1156,200.5 C1183.55,200.11 1190.55,198.14 1218,200.5 C1234.8,201.94 1252.95,204.67 1269.32,207.58 " fill="none" id="member-create_comment" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[3cca013971d1b5fda0ecb5af1a1cb2e8]
+link admin to member_owner--><path d="M59.0477,783.5 C73.5584,783.5 94.9089,783.5 115.845,783.5 " fill="none" id="admin-&gt;member_owner" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="115.961,776.5,135.961,783.5,115.961,790.5,115.961,776.5" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f8490e9fa2613e1766a19bd5ca356c7c]
+link member_owner to member--><path d="M224.437,823.671 C252.977,853.116 291.558,892.92 320.091,922.358 " fill="none" id="member_owner-&gt;member" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="325.492,917.872,334.386,937.105,315.439,927.616,325.492,917.872" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[ea79d73b91872c6637f74191686782cb]
+link member to visitor--><path d="M385.834,967.39 C431.469,976.376 528.897,995.561 582.582,1006.132 " fill="none" id="member-&gt;visitor" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="none" points="584.062,999.289,602.333,1010.021,581.358,1013.025,584.062,999.289" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[fe8091a0ef11225ab872e9addb3d21bf]
+reverse link browse_Offer to read_offer--><path d="M417.948,1476.045 C465.865,1468.09 533.347,1456.886 576.884,1449.658 " fill="none" id="browse_Offer&lt;-read_offer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="412.79,1476.902,422.3234,1479.3747,417.7225,1476.0835,421.0138,1471.4826,412.79,1476.902" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="454" y="1455.9951">«extends»</text><!--MD5=[67f2e12dcb176cebca1284c2d827764e]
+reverse link browse_Offer to create_offer--><path d="M388.251,1468.337 C406.206,1457.475 430.476,1443.623 453,1433.5 C495.473,1414.411 546.384,1397.896 580.739,1387.627 " fill="none" id="browse_Offer&lt;-create_offer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="383.828,1471.03,393.5956,1469.7673,388.099,1468.4303,389.436,1462.9337,383.828,1471.03" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="454" y="1405.9951">«extends»</text><!--MD5=[8b2231759784b15243fe6f6e904230ae]
+link read_offer to read_user--><path d="M661.285,1433.284 C674.014,1428.333 686.92,1420.821 695,1409.5 C736.491,1351.364 696.715,1155.084 725,1089.5 C754.06,1022.119 819.581,962.431 854.345,934.039 " fill="none" id="read_offer-&gt;read_user" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="858.427,930.734,848.9156,933.2901,854.5415,933.8809,853.9507,939.5069,858.427,930.734" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="41" x="735.5" y="996.9951">include</text><!--MD5=[d1d15b8ff67fc628fa2f60018c858a27]
+reverse link list_services to read_offer--><path d="M563.594,258.28 C548.037,263.25 532.804,271.35 523,284.5 C470.348,355.11 483.955,988.534 488.5,1076.5 C496.177,1225.094 430.065,1293.301 523,1409.5 C535.334,1424.922 555.163,1433.184 573.768,1437.591 " fill="none" id="list_services&lt;-read_offer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="568.427,256.83,558.6579,255.5795,563.6371,258.2641,560.9524,263.2433,568.427,256.83" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="41" x="463.5" y="1072.9951">include</text><!--MD5=[00f741885d5c35109036b1fe6bc0c51d]
+link update_user to read_user--><path d="M680.183,910.325 C723.406,911.681 781.898,913.516 823.866,914.833 " fill="none" id="update_user-&gt;read_user" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="828.9,914.991,820.0302,910.7101,823.9025,914.8338,819.7787,918.7061,828.9,914.991" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="726" y="907.9951">«extends»</text><!--MD5=[e1e9d17dc19f449ea8bc217bfa8c3122]
+reverse link list_services to read_service--><path d="M682.506,254.21 C767.144,259.41 919.871,268.78 1003.447,273.91 " fill="none" id="list_services&lt;-read_service" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="677.281,253.89,686.0188,258.4343,682.2716,254.1966,686.5093,250.4493,677.281,253.89" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="848" y="258.9951">«extends»</text><!--MD5=[6c33dd6bb89cc9302aa88321bdf4e5d5]
+reverse link read_service to create_comment--><path d="M1119.91,286.17 C1149.57,288.88 1186.32,289.23 1218,280.5 C1250.43,271.57 1282.94,249.58 1302.77,234.35 " fill="none" id="read_service&lt;-create_comment" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1114.84,285.67,1123.4222,290.5018,1119.8177,286.142,1124.1774,282.5375,1114.84,285.67" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1157" y="276.9951">«extends»</text><!--MD5=[cb0dcd2b97015552de773f31eda1b18e]
+reverse link read_service to update_comment--><path d="M1090.63,260.31 C1122.12,240.44 1176.53,207.51 1226,184.5 C1243.05,176.57 1262.44,169.21 1279.31,163.3 " fill="none" id="read_service&lt;-update_comment" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1086.15,263.15,1095.8952,261.7248,1090.3771,260.4795,1091.6224,254.9614,1086.15,263.15" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1157" y="184.9951">«extends»</text><!--MD5=[e52a7a4eada2f7ccc00eece3117b4f60]
+reverse link read_service to delete_comment--><path d="M1076.95,257.82 C1093.46,233.63 1123.76,192.16 1156,162.5 C1183.58,137.13 1192.6,132.49 1226,115.5 C1242.76,106.98 1262.1,99.51 1279.01,93.69 " fill="none" id="read_service&lt;-delete_comment" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1074.03,262.12,1082.396,256.923,1076.8396,257.984,1075.7785,252.4276,1074.03,262.12" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1157" y="115.9951">«extends»</text><!--MD5=[a218d22181b6af53ed2c849f17786bf9]
+reverse link read_service to create_rating--><path d="M1074.63,297.58 C1097.03,337.88 1153.07,428.85 1226,476.5 C1241.34,486.53 1260.06,493.85 1276.89,499.02 " fill="none" id="read_service&lt;-create_rating" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1072.07,292.92,1072.9196,302.7321,1074.4873,297.2968,1079.9226,298.8645,1072.07,292.92" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1157" y="411.9951">«extends»</text><!--MD5=[82dcdb400b75619c85b125745505ae68]
+reverse link read_service to update_rating--><path d="M1068.56,297.97 C1078.51,339.01 1105.46,432.68 1156,494.5 C1186.55,531.86 1238.55,553.29 1276.22,564.61 " fill="none" id="read_service&lt;-update_rating" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1067.37,293,1065.5646,302.682,1068.5287,297.8639,1073.3468,300.828,1067.37,293" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1157" y="490.9951">«extends»</text><!--MD5=[66b459ef757d1772e9e81c2ad0c01bf0]
+reverse link read_service to delete_rating--><path d="M1090.9,294.81 C1141.94,327.64 1251.94,398.42 1299.42,428.97 " fill="none" id="read_service&lt;-delete_rating" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1086.44,291.94,1091.8405,300.1762,1090.6436,294.6474,1096.1723,293.4504,1086.44,291.94" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1157" y="336.9951">«extends»</text><!--MD5=[bcf066688444428f56799dc0507ddd4e]
+link list_message to read_offer--><path d="M856.537,1257.188 C826.086,1279.557 767.841,1324.348 725,1369.5 C709.705,1385.621 712.336,1395.597 695,1409.5 C684.846,1417.643 672.362,1424.242 660.607,1429.338 " fill="none" id="list_message-&gt;read_offer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="655.971,1431.288,665.8179,1431.4854,660.5798,1429.3493,662.716,1424.1113,655.971,1431.288" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="726" y="1309.9951">«extends»</text><!--MD5=[076c49455623944701dd9dcc3e266cad]
+link update_message to list_message--><path d="M691.007,1255.629 C729.105,1252.94 776.1,1249.622 813.318,1246.995 " fill="none" id="update_message-&gt;list_message" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="818.736,1246.613,809.4772,1243.2553,813.7484,1246.9644,810.0393,1251.2356,818.736,1246.613" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="726" y="1244.9951">«extends»</text><!--MD5=[1409bdb462c156d82c173092483c298c]
+link delete_message to list_message--><path d="M678.556,1202.23 C710.431,1208.337 750.965,1216.203 787,1223.5 C799.574,1226.046 813.119,1228.866 825.788,1231.536 " fill="none" id="delete_message-&gt;list_message" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="830.782,1232.59,822.8022,1226.8174,825.8898,1231.5573,821.1499,1234.6449,830.782,1232.59" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="726" y="1207.9951">«extends»</text><!--MD5=[84a42ea2963bce97fbba0aba74094f47]
+reverse link read_offer to create_message--><path d="M569.519,1435.384 C552.613,1430.629 535.08,1422.704 523,1409.5 C461.272,1342.028 447.134,1294.217 479,1208.5 C489.432,1180.44 498.309,1174.428 523,1157.5 C537.603,1147.489 555.387,1140.013 571.776,1134.599 " fill="none" id="read_offer&lt;-create_message" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="574.739,1436.76,567.0558,1430.5981,569.9041,1435.4856,565.0167,1438.3339,574.739,1436.76" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="454" y="1222.9951">«extends»</text><!--MD5=[aa9f0fb69213f8e8baca27fe77345413]
+reverse link read_offer to update_offer--><path d="M676.108,1442.5 C758.82,1442.5 916.138,1442.5 1002.157,1442.5 " fill="none" id="read_offer&lt;-update_offer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="670.769,1442.5,679.769,1446.5,675.769,1442.5,679.769,1438.5,670.769,1442.5" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="848" y="1438.9951">«extends»</text><!--MD5=[84fdf09cc80e974f112653a95957e0e9]
+reverse link read_offer to delete_offer--><path d="M671.163,1435.126 C755.93,1422.411 928.609,1396.509 1013.16,1383.827 " fill="none" id="read_offer&lt;-delete_offer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="666.203,1435.869,675.6967,1438.4901,671.1477,1435.1275,674.5103,1430.5785,666.203,1435.869" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="848" y="1386.9951">«extends»</text><!--MD5=[8ee6e7bf66fffbbad38ce521e83261f5]
+reverse link create_service to create_offer--><path d="M557.993,327.44 C544.512,332.5 531.72,340.1 523,351.5 C439.249,461.01 472.698,832.917 481.5,970.5 C490.741,1114.94 453.873,1166.339 523,1293.5 C539.612,1324.058 572.369,1348.195 595.426,1362.388 " fill="none" id="create_service&lt;-create_offer" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="562.985,325.69,553.1688,324.889,558.2659,327.3424,555.8126,332.4396,562.985,325.69" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="456.5" y="966.9951">«include»</text><!--MD5=[274c7f1fb5298f23b24457798842002d]
+link update_offer to update_service--><path d="M1025.87,1430.149 C1016.56,1425.197 1007.6,1418.474 1002,1409.5 C929.284,1293.069 1028.41,917.646 972,792.5 C901.212,635.47 722.542,513.02 651.649,469.08 " fill="none" id="update_offer-&gt;update_service" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="647.138,466.3,652.7023,474.4264,651.3949,468.9227,656.8986,467.6154,647.138,466.3" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="850.5" y="591.9951">«include»</text><!--MD5=[166ae9940a42c8c6916c7f9f2a3d18c3]
+link delete_offer to delete_service--><path d="M1061.96,1360.795 C1061.42,1260.175 1054.28,705.862 963,569.5 C894.994,467.91 751.992,417.37 674.534,396.57 " fill="none" id="delete_offer-&gt;delete_service" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="669.528,395.24,677.2009,401.4147,674.3607,396.5225,679.2529,393.6824,669.528,395.24" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="850.5" y="446.9951">«include»</text><!--MD5=[33acd4d47f76895207ee6606422e0c14]
+@startuml
+skinparam shadowing false
+
+
+actor admin as admin
+actor member_owner as member_owner
+actor visitor as user
+actor member as member
+left to right direction
+usecase (login) as login
+usecase (Signup) as signup
+usecase (search) as search
+usecase (location)as location
+
+usecase (categories) as categories
+
+rectangle User {
+usecase (read_user) as read_user
+usecase (update_user) as update_user
+}
+
+
+rectangle Offer{
+ usecase (browse_Offer) as browse_Offer
+usecase (read_offer) as read_offer
+usecase (create_offer) as create_offer
+usecase (update_offer) as update_offer
+usecase (delete_offer) as delete_offer
+}
+
+
+rectangle Message{
+ usecase (list_message)as list_message
+usecase (create_message) as create_message
+usecase (update_message) as update_message
+usecase (delete_messsage) as delete_message
+}
+
+rectangle Service {
+usecase (list_services) as list_services
+usecase (read_service) as read_service
+usecase (create_service) as create_service
+usecase (update_service) as update_service
+usecase (delete_service) as delete_service
+}
+
+rectangle Comment{
+ usecase (create_comment) as create_comment
+usecase (update_comment) as update_comment
+usecase (delete_comment) as delete_comment
+}
+
+rectangle Rating {
+usecase (create_rating) as create_rating
+usecase (update_rating) as update_rating
+usecase (delete_rating) as delete_rating
+}
+
+
+
+ login - - user 
+ signup - - user  
+user - - browse_Offer
+
+
+:search: - -|> browse_Offer  
+(location) - -|> (browse_Offer)  
+(categories) - -|> (browse_Offer) 
+
+
+member_owner - - update_comment 
+member_owner - -delete_comment
+member_owner - -delete_offer
+member_owner - - update_offer
+member_owner - - create_rating
+member_owner - -update_rating
+member_owner - - delete_rating
+member_owner - - delete_message
+member_owner - - update_message
+
+
+ (member) - - update_user
+member - - (create_message)
+member - - create_offer
+member - -create_comment
+
+
+admin - -|> member_owner
+ member_owner - -|> member
+ member - -|> visitor
+
+
+
+
+
+
+
+browse_Offer <.. read_offer :  <<extends>>
+browse_Offer <.. create_offer :  <<extends>>
+read_offer .> read_user:include
+list_services <. read_offer  :include
+
+
+update_user ..> read_user:<<extends>>
+
+list_services  <... read_service :<<extends>>
+
+read_service <.. create_comment:<<extends>>
+read_service <.. update_comment:<<extends>>
+read_service <.. delete_comment:<<extends>>
+
+read_service <.. create_rating:<<extends>>
+read_service <.. update_rating:<<extends>>
+read_service <.. delete_rating:<<extends>>
+
+
+list_message ..>   read_offer:<<extends>>
+update_message ..> list_message:<<extends>>
+delete_message ..> list_message:<<extends>>
+
+read_offer <... create_message:<<extends>>
+read_offer <... update_offer:<<extends>>
+read_offer <... delete_offer:<<extends>>
+create_service <.create_offer :<<include>> 
+
+ update_offer .> update_service :<<include>>
+ delete_offer .> delete_service :<<include>>
+
+
+
+
+
+
+
+
+@enduml
+
+PlantUML version 1.2020.10(Sun May 17 11:35:57 CEST 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 15.0.1+9-18
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: fr
+Country: FR
+--></g></svg>

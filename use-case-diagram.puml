@@ -1,0 +1,136 @@
+@startuml
+skinparam shadowing false
+
+
+actor admin as admin
+actor member_owner as member_owner
+actor visitor as user
+actor member as member
+left to right direction
+usecase (login) as login
+usecase (Signup) as signup
+usecase (search) as search
+usecase (location)as location
+
+usecase (categories) as categories
+
+rectangle User {
+usecase (read_user) as read_user
+usecase (update_user) as update_user
+}
+
+
+rectangle Offer{
+ usecase (browse_Offer) as browse_Offer
+usecase (read_offer) as read_offer
+usecase (create_offer) as create_offer
+usecase (update_offer) as update_offer
+usecase (delete_offer) as delete_offer
+}
+
+
+rectangle Message{
+ usecase (list_message)as list_message
+usecase (create_message) as create_message
+usecase (update_message) as update_message
+usecase (delete_messsage) as delete_message
+}
+
+rectangle Service {
+usecase (list_services) as list_services
+usecase (read_service) as read_service
+usecase (create_service) as create_service
+usecase (update_service) as update_service
+usecase (delete_service) as delete_service
+}
+
+rectangle Comment{
+ usecase (create_comment) as create_comment
+usecase (update_comment) as update_comment
+usecase (delete_comment) as delete_comment
+}
+
+rectangle Rating {
+usecase (create_rating) as create_rating
+usecase (update_rating) as update_rating
+usecase (delete_rating) as delete_rating
+}
+
+
+
+ login -- user 
+ signup -- user  
+user -- browse_Offer
+
+
+:search: --|> browse_Offer  
+(location) --|> (browse_Offer)  
+(categories) --|> (browse_Offer) 
+
+
+member_owner -- update_comment 
+member_owner --delete_comment
+member_owner --delete_offer
+member_owner -- update_offer
+member_owner -- create_rating
+member_owner --update_rating
+member_owner -- delete_rating
+member_owner -- delete_message
+member_owner -- update_message
+
+
+ (member) -- update_user
+member -- (create_message)
+member -- create_offer
+member --create_comment
+
+
+admin --|> member_owner
+ member_owner --|> member
+ member --|> visitor
+
+
+
+
+
+
+
+browse_Offer <.. read_offer :  <<extends>>
+browse_Offer <.. create_offer :  <<extends>>
+read_offer .> read_user:include
+list_services <. read_offer  :include
+
+
+update_user ..> read_user:<<extends>>
+
+list_services  <... read_service :<<extends>>
+
+read_service <.. create_comment:<<extends>>
+read_service <.. update_comment:<<extends>>
+read_service <.. delete_comment:<<extends>>
+
+read_service <.. create_rating:<<extends>>
+read_service <.. update_rating:<<extends>>
+read_service <.. delete_rating:<<extends>>
+
+
+list_message ..>   read_offer:<<extends>>
+update_message ..> list_message:<<extends>>
+delete_message ..> list_message:<<extends>>
+
+read_offer <... create_message:<<extends>>
+read_offer <... update_offer:<<extends>>
+read_offer <... delete_offer:<<extends>>
+create_service <.create_offer :<<include>> 
+
+ update_offer .> update_service :<<include>>
+ delete_offer .> delete_service :<<include>>
+
+
+
+
+
+
+
+
+@enduml
